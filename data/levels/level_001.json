@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "world": "valle_verde",
+  "name": "La primera grieta",
+  "board_size": 8,
+  "moves": 25,
+  "objectives": [
+    { "type": "score", "target": 1000 },
+    { "type": "crystal", "target": 12 }
+  ],
+  "rewards": {
+    "wood": 30,
+    "stone": 20,
+    "crystal": 5,
+    "energy": 10
+  },
+  "story": {
+    "speaker": "Ara",
+    "text": "Si conseguimos activar ese fragmento, quizá podamos devolver la vida al pueblo."
+  }
+}
